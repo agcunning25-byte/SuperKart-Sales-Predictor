@@ -17,7 +17,7 @@ It was developed as the **capstone project** for the *Postgraduate Diploma in Ma
 
 ## 🧩 Project Architecture
 
-<pre> ```text SuperKart-Sales-Predictor/
+<pre> ``` SuperKart-Sales-Predictor/
 |
 ├── backend/ # Flask API (model inference)
 │ ├── app.py # Main backend app
@@ -31,7 +31,7 @@ It was developed as the **capstone project** for the *Postgraduate Diploma in Ma
 │ └── Dockerfile
 │
 ├── SuperKart_Sales_Predictor.html # Jupyter Notebook (EDA, model training)
-└── README.md # Project documentation ```text </pre>
+└── README.md # Project documentation ``` </pre>
 
 ---
 
